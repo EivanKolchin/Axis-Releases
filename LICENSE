@@ -1,0 +1,29 @@
+Copyright (c) 2026 Eivan Kolchin. All rights reserved.
+
+This repository distributes installers for Axis. Axis is proprietary
+software; it is licensed, not sold, and no ownership passes to you.
+
+You may:
+  - download these installers and install Axis on devices you control;
+  - use Axis with a valid Axis account.
+
+You may not:
+  - redistribute, mirror, resell, or otherwise make these installers
+    available to others;
+  - modify, repackage, or create derivative works from them;
+  - decompile or reverse engineer them, except to the extent that this
+    restriction cannot lawfully be excluded.
+
+These installers include third-party software distributed under its own
+licence terms, including Electron, Chromium, and Node.js. Those terms
+govern those components and are unaffected by this notice. The
+accompanying licence files are installed alongside the application.
+
+Axis is provided "as is", without warranty of any kind, express or
+implied. To the fullest extent permitted by law, the copyright holder
+accepts no liability for any claim or damages arising from its use.
+
+Nothing in this notice limits any right you hold under applicable
+consumer protection law.
+
+For terms of use and privacy, see https://www.aroundaxis.co.uk
