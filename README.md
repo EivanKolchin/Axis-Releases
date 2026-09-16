@@ -30,5 +30,6 @@ the application.
 
 ## Reporting a problem
 
-Issues here are not monitored. Please use the contact form at
-[aroundaxis.co.uk/contact](https://www.aroundaxis.co.uk/contact).
+Issues may be reported using the form at
+[aroundaxis.co.uk/contact](https://www.aroundaxis.co.uk/contact)
+or alternatively via raising an issue here.
